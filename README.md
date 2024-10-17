@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @richardle88
+- 👀 I’m interested in blockchain development, smart contract auditing, and Web3 technologies.
+- 🌱 I’m currently learning advanced techniques for smart contract security and optimizing blockchain applications with Foundry.
+- 💞️ I’m looking to collaborate on projects related to smart contract auditing, DeFi protocols, and decentralized applications.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m always up for a challenge in cracking complex security issues and optimizing smart contract gas usage!
